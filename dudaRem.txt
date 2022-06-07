@@ -1,0 +1,16 @@
+Hola, buenas tardes. Estoy inscrito en el régimen de arrendamiento y, actualmente, rento mi departamento
+a una persona moral. He estado facturando los ingresos por renta sin problema. Sin embargo, me surgió la
+siguiente situación: me he estado haciendo cargo del pago de los servicios (luz, agua, gas y teléfono),
+por así haberlo convenido. El convenio señala que mi arrendatario me reembolse estos pagos y, para hacerlo,
+me solicita le emita una factura. Ya repasé la guía de arrendamiento en el micrositio de factura y no aparece
+algo similar.
+
+Se trata de un reembolso, no de un ingreso por la actividad, pero, no encuentro un tipo de comprobante en 
+que esto califique, en particular. Ahora bien, dados los tipos de factura, asumo que tendría que emitir un CFDI de ingresos, ya que la descripción
+de los otros se ajustan menos a la situación. ¿Es este el tipo de comprobante que debo utilizar?
+
+De ser así, en lo relativo al concepto, la clave de producto o servicio no debería ser "alquiler y arrendamiento...", ya que no se trata de un "ingreso"
+por renta. ¿Es correcto? De ser así, no encuentro en el catálogo algún servicio que se ajuste a la situación, dado el régimen de arrendamiento. ¿Qué clave
+debo utilizar?
+
+Se trata de una operación única.  
